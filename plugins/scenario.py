@@ -1,5 +1,6 @@
 """ External control plugin for Machine Learning applications. """
 # Import the global bluesky objects. Uncomment the ones you need
+#scenario creation
 from bluesky import stack, sim, traf  #, settings, navdb, traf, sim, scr, tools
 import bluesky as bs
 from bluesky.tools.areafilter import Circle, Box
